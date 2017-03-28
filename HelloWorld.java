@@ -2,11 +2,11 @@
 //VRSDAN004
 //Hello World
 
-public class HelloWorld(String[] args){
+public class HelloWorld(){
 
-publicStaticVoidMain(){
+publicStaticVoidMain(String[] args){
 
-System.out.println("HelloWorld");
+	System.out.println("HelloWorld");
 
 
 
