@@ -1,12 +1,12 @@
-//Adde dchanc Daniel Vorster
+//Daniel Vorster
 //VRSDAN004
 //Hello World
 
-public class HelloWorld(){
+public class HelloWorld(String[] args){
 
-publicStaticVoidMain(String[] args){
+publicStaticVoidMain(){
 
-	System.out.println("HelloWorld");
+System.out.println("HelloWorld");
 
 
 
